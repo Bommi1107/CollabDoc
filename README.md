@@ -3,17 +3,6 @@
 
 This project is a collaborative text editor built using React, Quill, and Socket.IO. It allows multiple users to simultaneously edit a document in real-time, with changes instantly reflected across all connected clients. The frontend is developed using Vite with React, providing a fast and efficient development environment, and is deployed on **Vercel**. The backend is deployed on **Render**, with MongoDB Atlas providing the database.
 
-## Demo
-
-#### Spinning up containers
-
-![spinning-up-backend-container](./assets/SpinningUp_Containers(Backend).gif)
-
-#### Working Demo
-
-![working-demo](./assets/Working_Demo.gif)
-
-
 ## Table of Contents
 
 - [Live Editor with React, Quill, Socket.IO, and MongoDB Atlas](#live-editor-with-react-quill-socketio-and-mongodb-atlas)
